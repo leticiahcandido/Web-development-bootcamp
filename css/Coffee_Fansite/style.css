@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Fascinate&family=Fascinate+Inline&family=Josefin+Sans:wght@700&family=Righteous&family=Sarala&display=swap');
+
+.body {
+    background-color: #EED6C4;
+}
+
+.img {
+    background-color: #EED6C4;
+}
+
+h1 {
+    color: #483434;
+    font-family: 'Fascinate Inline', cursive;
+}
+
+p {
+    color: #483434;
+    font-family: 'Comfortaa', cursive;
+}
