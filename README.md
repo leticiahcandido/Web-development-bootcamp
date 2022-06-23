@@ -1,6 +1,7 @@
-#Web-development-bootcamp
-####conteúdo agregado com este curso: 
+# Web-development-bootcamp
 
+#### Conteúdo agregado com este curso: 
+~~~~
 Front-End Web Development:
 HTML 5 ✓
 CSS 3 ✓
@@ -31,3 +32,4 @@ Web3 Development on the Internet Computer
 Blockchain technology
 Token contract development
 NFT minting, buying and selling logic
+~~~~
